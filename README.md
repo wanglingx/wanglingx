@@ -1,4 +1,4 @@
-- 👋 Hi, I’m wanglingx or wang jialing 
+- 👋 Hi, I’m annisa or wang jialing 
 - 👀 I’m interested in blockchain and cyber security
 - 🌱 I’m currently learning Computer Science
 
