@@ -1,3 +1,5 @@
+![exam-homer](https://media.giphy.com/media/IPbS5R4fSUl5S/giphy.gif) <br/>
+
 - 👋 Hi, I’m annisa or wang jialing 
 - 👀 I’m interested in blockchain and cyber security
 - 🌱 I’m currently learning Computer Science
