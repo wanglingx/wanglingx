@@ -1,9 +1,10 @@
 ![exam-homer](https://media.giphy.com/media/IPbS5R4fSUl5S/giphy.gif) <br/>
 
 - 👋 Hi, I’m annisa or wang jialing 
-- 👀 I’m interested in blockchain and backend develop
+- 👀 I’m interested in blockchain, backend dev and data engineering
 - 🌱 I’m currently Studying at Computer Science KMITL
-- My Programming Languages skills are Java, Java script, SQL, Golang, Python, CSS
+- 👀 My college status is year 3th and cooraperate in NSO Thailand.
+- 🌱 My Programming Languages skills are Java, Java script, SQL, Golang, Python
 
 <!---
 wanglingx/wanglingx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
