@@ -5,6 +5,10 @@
 ![This is an image](https://images.unsplash.com/photo-1561460651-6373ffda5a37?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2121&q=80)
 ##### <div align="center">cr. I download image form unsplash website. thank you so much for the beautiful picture by Josh Methvin</div>
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=wanglingx&&style=flat-square" align="center" />
+</div>  
+
 ----
 
 
@@ -19,7 +23,7 @@
 ## Connect with me 🐰  
 - For work : annisanst62@gmail.com
 
-<div align="center">
+<div align="start">
 <a href="https://github.com/wanglingx" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -54,15 +58,9 @@
 
  
 ## Github Stats 🕸️
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=wanglingx&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
+<div align="start"><img src="https://github-readme-stats.vercel.app/api?username=wanglingx&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=wanglingx&&style=flat-square" align="center" />
-</div>  
-  
-<br/>  
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
