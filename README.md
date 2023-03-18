@@ -11,7 +11,7 @@
 > ```
 
 ## Connect with me 🐰  
-- Forwork : annisanst62@gmail.com
+- For work : annisanst62@gmail.com
 
 <div align="center">
 <a href="https://github.com/wanglingx" target="_blank">
