@@ -17,7 +17,7 @@
 > ```bash 
 >$ 👋 Hi, I’m annisa aka 东阳
 >$ 🎓 I’m currently Studying at Computer Science KMITL 
->$ 👩‍💻 My college status is year 3th and cooraperative. 
+>$ 👩‍💻 My college status is year 4th Undergraduate. 
 > ```
 
 ## Connect with me 🐰  
