@@ -58,13 +58,6 @@
 | <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="20" /></a>   Kotlin | <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="20" /></a>  Bash | <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="20" /></a>  PostgreSQL | 
 | `---------- 🐯 ----------`  | `---------- 🦁 ----------` | `---------- 🐰 ----------` |
 
-
- 
-## Github Stats 🕸️
-<div align="start"><img src="https://github-readme-stats.vercel.app/api?username=wanglingx&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
-<br/>  
-
-
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 <!---
