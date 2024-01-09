@@ -15,7 +15,7 @@
 ## Introduce Myself 🛸
 
 > ```bash 
->$ 👋 Hi, I’m annisa aka 东阳
+>$ 👋 Hi, I’m annisa 
 >$ 🎓 I’m currently Studying at Computer Science KMITL 
 >$ 👩‍💻 My college status is year 4th Undergraduate. 
 > ```
