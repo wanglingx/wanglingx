@@ -1,7 +1,6 @@
 <!-- ![exam-homer](https://media.giphy.com/media/IPbS5R4fSUl5S/giphy.gif) <br/> -->
 
 ### <div align="center">  Welcome to my playground </div>
-### <div align="center"> ⚡ This is Annisa github⚡</div>
 ![This is an image](https://ik.imagekit.io/wanglingx/IMG_4292.png?updatedAt=1704801968945)
 >
 
